@@ -13,20 +13,20 @@ const LOADER_ANIMATION = {
   SLIDE_DISTANCE: 12,      // pixels - how far it slides from top
 };
 
-// Image assets from Figma
-const imgImage = "http://localhost:3845/assets/0fa03f08ebbb19ecccc8ae0dcb2e87a88e4576c2.png";
-const imgFrame = "http://localhost:3845/assets/6200bbd45c661c2943f3351fced3e39814eca57c.svg";
-const imgVector706 = "http://localhost:3845/assets/ca70de762540ea8de8a7a532635c64520f050a1f.svg";
-const imgUnion = "http://localhost:3845/assets/5bd763ffeddd93b14afcbc2bc8a7c00356cecc59.svg";
-const imgIconPaperPlaneTopRight = "http://localhost:3845/assets/b31de77934e57aaebf29c9a0c2088c6cbc1f611b.svg";
-const imgIconShield = "http://localhost:3845/assets/caed0e77bd2a2a0335e85f02ac1531cdfaab1213.svg";
-const imgSecondaryIconLight1 = "http://localhost:3845/assets/be4c176d268a73cd779effc0808340c0f4ce2d71.svg";
-const imgVector = "http://localhost:3845/assets/b24b30c439916bf8a0ad33590bab631228f3c1dc.svg";
-const imgFrame626685 = "http://localhost:3845/assets/200a28103d137b4e76f32c7d2bfb1c891224ea63.svg";
-const imgFrame626686 = "http://localhost:3845/assets/444ac1289f9ff817e3b2542551521957e0bd4921.svg";
-const imgHome = "http://localhost:3845/assets/22a5bffb99c33829a7afd81a44fe611d313d2f68.svg";
-const imgClock = "http://localhost:3845/assets/4b2063ce35aafe63840eb21aea1ad9ed0d37ddb2.svg";
-const imgSettingsGear1 = "http://localhost:3845/assets/e34fa51987d860839a07e29b0d8df9f4c000c311.svg";
+// Image assets
+const imgImage = "/assets/avatar.svg";
+const imgFrame = "/assets/chevron-up.svg";
+const imgVector706 = "/assets/arrow-up.svg";
+const imgUnion = "/assets/dot.svg";
+const imgIconPaperPlaneTopRight = "/assets/send.svg";
+const imgIconShield = "/assets/shield.svg";
+const imgSecondaryIconLight1 = "/assets/token.svg";
+const imgVector = "/assets/chevron-down.svg";
+const imgFrame626685 = "/assets/eye.svg";
+const imgFrame626686 = "/assets/refresh.svg";
+const imgHome = "/assets/home.svg";
+const imgClock = "/assets/clock.svg";
+const imgSettingsGear1 = "/assets/settings.svg";
 
 // ============================================
 // ROTATING NUMBER - Fade out/in with stagger per character
