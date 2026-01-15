@@ -1,4 +1,5 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M17 3L9 11M17 3L12 17L9 11M17 3L3 8L9 11" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 20 20.001" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="IconPaperPlaneTopRight" opacity="0.4">
+<path id="Subtract" d="M10.9561 1C15.4768 1.47885 18.9998 5.31391 19 9.97461C19 14.9593 14.9704 19.0009 10 19.001C5.02953 19.001 1 14.9594 1 9.97461C1.00016 5.41906 4.36576 1.65292 8.73926 1.03809V11.3535L5.23145 7.83691L5.08398 7.68945L4.93652 7.83691L3.66406 9.11328L3.51758 9.26074L3.66406 9.40723L9.7002 15.4609L9.84766 15.6094L9.99512 15.4609L16.0312 9.40723L16.1777 9.26074L16.0312 9.11328L14.7588 7.83691L14.6113 7.68945L14.4639 7.83691L10.9561 11.3545V1Z" fill="var(--fill-0, white)"/>
+</g>
 </svg>
-

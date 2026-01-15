@@ -15,7 +15,7 @@ const LOADER_ANIMATION = {
 };
 
 // Image assets
-const imgImage = "/assets/avatar.svg";
+const imgImage = "/assets/avatar.png";
 const imgFrame = "/assets/chevron-up.svg";
 const imgVector706 = "/assets/arrow-up.svg";
 const imgUnion = "/assets/dot.svg";
